@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SecondPartTasksTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-05-23T07:24:27"
+           hostname="dell" time="0.453">
+    <properties/>
+    <testcase name="testPiDividedBy4" classname="SecondPartTasksTest" time="0.429"/>
+    <testcase name="testFindQuotes" classname="SecondPartTasksTest" time="0.006"/>
+    <testcase name="testFindPrinter" classname="SecondPartTasksTest" time="0.001"/>
+    <testcase name="testCalculateGlobalOrder" classname="SecondPartTasksTest" time="0.017"/>
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>
