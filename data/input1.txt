@@ -1,3 +1,0 @@
-banana
-wada true
-123
